@@ -1,7 +1,5 @@
 # 001. Queue class
 
-Last edited time: June 2, 2023 8:33 PM
-Owner: Руслан Си
 Tags: DataStructure
 
 ## Problem
@@ -18,17 +16,13 @@ Tags: DataStructure
 
 1. Сразу же проблема как вынимать элемент из очереди. Не могу вспомнить как точно работают методы `slice`, `splice`
 
-    <aside>
-    💡 Хорошо подходит метод `splice` который позвляет удалить элемент из списка и возвращает удаленный элемент
+>💡 Хорошо подходит метод `splice` который позвляет удалить элемент из списка и возвращает удаленный элемент
 
-    </aside>
-
-    <aside>
-    <img src="https://www.notion.so/icons/exclamation-mark-double_red.svg" alt="https://www.notion.so/icons/exclamation-mark-double_red.svg" width="40px" /> Нужно запомнить что метод `splice` возвращает массив удаленных элементов
-
-    </aside>
+>❗ Нужно запомнить что метод `splice` возвращает массив удаленных элементов
 
 
 ### Code
 
-[https://github.com/newyorrker/code-task-solving-journal/blob/task/001-queue/tasks/001-queue/index.ts](https://github.com/newyorrker/code-task-solving-journal/blob/task/001-queue/tasks/001-queue/index.ts)
+[File with implementation](https://github.com/newyorrker/code-task-solving-journal/blob/task/001-queue/tasks/001-queue/index.ts)
+
+[Backlink to the notion](https://crystalline-coral-237.notion.site/001-Queue-class-590ad41802864f89a2f11fb09afdedd1)
