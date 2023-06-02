@@ -1,6 +1,6 @@
 # 001. Queue class
 
-Last edited time: June 2, 2023 8:29 PM
+Last edited time: June 2, 2023 8:33 PM
 Owner: Руслан Си
 Tags: DataStructure
 
@@ -31,4 +31,4 @@ Tags: DataStructure
 
 ### Code
 
-Here should be link to the file in github
+[https://github.com/newyorrker/code-task-solving-journal/blob/task/001-queue/tasks/001-queue/index.ts](https://github.com/newyorrker/code-task-solving-journal/blob/task/001-queue/tasks/001-queue/index.ts)
