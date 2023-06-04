@@ -12,10 +12,13 @@ export class Queue {
   }
 
   dequeue() {
-    return this._items.splice(0, 1)[0];
+    if(this.isEmpty()) {
+      throw new Error("The queue shoudn't be empty")
+    }
+    return this._items.shift();
   }
 
   isEmpty() {
-    return !!this._items.length;
+    return !this._items.length;
   }
 }
