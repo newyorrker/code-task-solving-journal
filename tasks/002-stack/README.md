@@ -12,9 +12,7 @@ Implement class **`Stack`**, which has following methods:
 
 ## Solution
 
-### Problems
-
-
+~~### Problems~~
 
 ### Code
 
